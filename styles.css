@@ -10,6 +10,10 @@ body {
     margin: 5px;
     color: wheat;
     border-radius: 10px;
+    flex-wrap: wrap;
+    float: top;
+    align-items: center;
+    align-content: center;
 }
 
 a {
@@ -21,9 +25,10 @@ a {
     text-align: center;
     text-decoration: none;
     margin: 5px;
-    color: wheat;
+    color: black;
     float: bottom;
     font-style: bold;
+    background-color: lightblue;
 }
 
 .mainSection {
@@ -43,4 +48,19 @@ table {
     background-color: brown;
     border-radius: 10px;
     margin: 5px;
+    width: 80px;
+}
+
+.linkB {
+    background-color: darkorange;
+    border-radius: 10px;
+    margin: 5px;
+    width: 90px;
+}
+
+.linkC {
+    background-color: darkgreen;
+    border-radius: 10px;
+    margin: 5px;
+    width: 80px;
 }
