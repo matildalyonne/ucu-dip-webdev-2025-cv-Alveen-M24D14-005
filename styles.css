@@ -1,0 +1,46 @@
+body {
+    background-color: lightgreen;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.headerDiv {
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    color: wheat;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: wheat;
+}
+
+.divFooter {
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    color: wheat;
+    float: bottom;
+    font-style: bold;
+}
+
+.mainSection {
+    color: purple;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.linkA {
+    background-color: brown;
+    border-radius: 10px;
+    margin: 5px;
+}
